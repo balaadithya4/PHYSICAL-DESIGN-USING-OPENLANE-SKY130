@@ -41,3 +41,14 @@ say 1 unit by 1 unit
 
 
 
+![image](https://github.com/balaadithya4/PHYSICAL-DESIGN-USING-OPENLANE-SKY130/assets/106482387/d920d539-969a-4b49-a13d-3383351731e5)
+Now the blocks are placed together and we mention about 2 things , core and die
+
+
+
+![image](https://github.com/balaadithya4/PHYSICAL-DESIGN-USING-OPENLANE-SKY130/assets/106482387/de5f2a4f-44e2-41c1-9f01-71ff807528a3)
+Core is where the blocks are placed and the circuit is built.
+Die is the one with encapsulates the core.
+
+
+
